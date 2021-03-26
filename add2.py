@@ -16,4 +16,7 @@ print("trying to check diff")
 print("diff")
 
 print("new diff)
+<<<<<<< Updated upstream
 print("data diffs")
+=======
+>>>>>>> Stashed changes
