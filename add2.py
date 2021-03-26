@@ -12,3 +12,8 @@ print("result=",res)
 
 
 print("changed the file")
+print("trying to check diff")
+print("diff")
+
+print("new diff)
+print("data diffs")
