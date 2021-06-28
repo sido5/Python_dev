@@ -8,4 +8,7 @@ var1= int(input("eneter num1"))
 var2= int(input("enter num2"))
 
 res=add(var1,var2)
-print("result=",res)    
+print("result=",res)
+
+
+print("end of add")

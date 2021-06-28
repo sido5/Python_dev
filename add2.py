@@ -20,3 +20,6 @@ print("new diff)
 print("data diffs")
 =======
 >>>>>>> Stashed changes
+
+
+print("done with adding numbers")
